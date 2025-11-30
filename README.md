@@ -12,5 +12,5 @@ I'm a software developer with **3+ years of experience** in building robust and 
 ### 🔗 Links
 
 - 🌐 [Website](https://andikadayu.my.id)
-- 💼 [GitHub (Work)](https://github.com/andikadayu)
-- 👤 [GitHub (Personal)](https://github.com/andikaventuro)
+- 💼 [GitHub (Work)](https://github.com/andikaventuro)
+- 👤 [GitHub (Personal)](https://github.com/andikadayu)
